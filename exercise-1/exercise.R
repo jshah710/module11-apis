@@ -7,7 +7,8 @@
 ## Then send GET() request to fetch the data, then extract the answer to the question
 
 # For what years does the API have statistical data?
-
+x <- 8 + 9
+print(x)
 
 # What is the "country code" for the "Syrian Arab Republic"?
 
@@ -15,7 +16,7 @@
 # How many persons of concern from Syria applied for residence in the USA in 2013?
 # Hint: you'll need to use a query parameter
 # Use the `str()` function to print the data of interest
-# See http://www.unhcr.org/en-us/who-we-help.html for details on these terms
+# See http://www.unhcr.org/en-us/who-we-help.html for details on these 
 
 
 ## And this was only 2013...
